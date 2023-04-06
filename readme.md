@@ -23,4 +23,7 @@ To run these solutions, you can simply copy and paste the code into the LeetCode
 | 2469 | Convert the Temperature | [Link](https://github.com/YuryFilipovich/golang_leetcode/blob/master/solutions/2469_convert_the_temperature.go) | [Link](https://leetcode.com/problems/convert-the-temperature/) |
 
 ## Contributing
-Contributions to this repository are welcome. If you would like to contribute a solution, please make sure to follow the contribution guidelines.
+
+Contributions to this repository are welcome. If you would like to contribute a solution, please make sure to follow the [contribution guidelines](https://github.com/YuryFilipovich/golang_leetcode/blob/master/contribution_guidlines.md).
+
+Please ensure that your contributions adhere to our [code of conduct](https://github.com/YuryFilipovich/golang_leetcode/blob/master/code_of_conduct.md).
