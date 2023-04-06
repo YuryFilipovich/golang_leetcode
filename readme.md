@@ -30,4 +30,4 @@ Please ensure that your contributions adhere to our [code of conduct](https://gi
 
 ## License
 
-This project is licensed under the terms of the MIT license. See the [LICENSE](https://github.com/YuryFilipovich/golang_leetcode/blob/master/license) file for details.
+This project is licensed under the terms of the MIT license. See the [LICENSE](https://github.com/YuryFilipovich/golang_leetcode/blob/master/license.md) file for details.
