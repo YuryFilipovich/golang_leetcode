@@ -11,6 +11,7 @@ To run these solutions, you can simply copy and paste the code into the LeetCode
 | ------ | ------------- | ------------- | --------------------- |
 | 13 | Roman to Integer | [Link](https://github.com/YuryFilipovich/golang_leetcode/blob/master/solutions/13_roman_to_integer.go) | [Link](https://leetcode.com/problems/roman-to-integer/) |
 | 485 | Max Consecutive Ones | [Link](https://github.com/YuryFilipovich/golang_leetcode/blob/master/solutions/485_max_consecutive_ones.go) | [Link](https://leetcode.com/problems/max-consecutive-ones/) |
+| 509 | Fibonacci Number | [Link](https://github.com/YuryFilipovich/golang_leetcode/blob/master/solutions/509_fibonacci_number.go) | [Link](https://leetcode.com/problems/fibonacci-number/) |
 | 704 | Binary Search | [Link](https://github.com/YuryFilipovich/golang_leetcode/blob/master/solutions/704_binary_search.go) | [Link](https://leetcode.com/problems/binary-search/) |
 | 1108 | Defanging an IP Address | [Link](https://github.com/YuryFilipovich/golang_leetcode/blob/master/solutions/1108_defanging_an_ip_address.go) | [Link](https://leetcode.com/problems/defanging-an-ip-address/) |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | [Link](https://github.com/YuryFilipovich/golang_leetcode/blob/master/solutions/1281_subtract_the_product_and_sum_of_digits_of_an_integer.go) | [Link](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) |
